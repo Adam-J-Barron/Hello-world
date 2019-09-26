@@ -1,0 +1,13 @@
+# Display Beep
+print(" ##########")
+print("## 0    0 ##")
+print("## \\____/ ##")
+print(" ##########")
+print("     ##    ")
+print(" ##########")
+print("## ------ ##")
+print("## 0\"     ##")
+print("##        ##")
+print("##        ##")
+print(" #        #")
+print(" ##########")
