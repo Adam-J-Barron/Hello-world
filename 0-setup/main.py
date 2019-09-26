@@ -1,3 +1,4 @@
 print("hello")
-yes = input()
-print(yes)
+print("What is your favourite number?")
+answer = input(int)
+print(int(answer))
